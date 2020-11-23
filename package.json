@@ -1,0 +1,24 @@
+{
+  "name": "vanila-uploader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taeheongo/vanila-uploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taeheongo/vanila-uploader/issues"
+  },
+  "homepage": "https://github.com/taeheongo/vanila-uploader#readme"
+}
